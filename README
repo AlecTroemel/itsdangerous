@@ -1,11 +1,6 @@
-It's Dangerous
-   ... so better sign this
+It's Dangerous, in javascript 
 
-Various helpers to pass data to untrusted environments and to get it back
-safe and sound.
+This repository provides a module that is a port of a port of the django signing
+module.
 
-This repository provides a module that is a port of the django signing
-module.  It's not directly copied but some changes were applied to
-make it work better on its own.
-
-Also I plan to add some extra things.  Work in progress.
+Work in progress.
